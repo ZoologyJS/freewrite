@@ -1,0 +1,9 @@
+{
+  "short_name": "Freewrite",
+  "name": "A simple way to store notes and writings online",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
